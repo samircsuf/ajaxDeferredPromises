@@ -9,13 +9,13 @@
     }
 
     function promiseResolvedWith(value) {
-        var promise = new Promise(function(resolve, reject) {
+        var promise = new Promise(function(resolve) {
             resolve(value);
         });
         return promise;
     }
     //stores or adds data to datastore that can be used by anybody who has access
-    DataStore.prototype.add = function(key, val) {
+    DataStore.prototype.add = function() {
         //this.data[key] = val;
         //var promise = new Promise(function(resolve, reject) {
         //this.data[key] = val;
