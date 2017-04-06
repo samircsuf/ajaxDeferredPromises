@@ -1,0 +1,60 @@
+{
+  "coffeeorders": [
+    {
+      "coffee": "test",
+      "emailAddress": "test@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "test@bignerdranch.com"
+    },
+    {
+      "coffee": "caffeine",
+      "emailAddress": "samir@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "samir@bignerdranch.com"
+    },
+    {
+      "coffee": "caffeine",
+      "emailAddress": "samir1@bignerdranch.com",
+      "size": "tall",
+      "flavor": "caramel",
+      "strength": "30",
+      "id": "samir1@bignerdranch.com"
+    },
+    {
+      "coffee": "caffeine",
+      "emailAddress": "samir3@bignerdranch.com",
+      "size": "tall",
+      "flavor": "almond",
+      "strength": "30",
+      "id": "samir3@bignerdranch.com"
+    },
+    {
+      "coffee": "caffeine",
+      "emailAddress": "samir8@bignerdranch.com",
+      "size": "tall",
+      "flavor": "caramel",
+      "strength": "30",
+      "id": "samir8@bignerdranch.com"
+    },
+    {
+      "coffee": "caffeine",
+      "emailAddress": "samir5@bignerdranch.com",
+      "size": "tall",
+      "flavor": "caramel",
+      "strength": "30",
+      "id": "samir5@bignerdranch.com"
+    },
+    {
+      "coffee": "caffeine",
+      "emailAddress": "samir9@bignerdranch.com",
+      "size": "grande",
+      "flavor": "caramel",
+      "strength": "30",
+      "id": "samir9@bignerdranch.com"
+    }
+  ]
+}
